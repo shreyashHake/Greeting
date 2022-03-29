@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Birthday Greeting</string>
+    <string name="helperMsg">Enter the Name ☺</string>
+    <string name="example">eg. Sam</string>
+    <string name="button">Click To Create Card</string>
+    <string name="createCard">creatingNewCard</string>
+    <string name="greet">Happy Birthday</string>
+    <string name="picture">Picture Of Cake</string>
+</resources>
